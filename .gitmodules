@@ -1,0 +1,6 @@
+[submodule "ep_markdownify"]
+	path = ep_markdownify
+	url = git@github.com:f0i/ep_markdownify
+[submodule "ep_disable_format_buttons"]
+	path = ep_disable_format_buttons
+	url = git@github.com:f0i/ep_disable_format_buttons
